@@ -1,4 +1,4 @@
-module github.com/RiskyFeryansyahP/go-mongo-rest-api
+module github.com/RiskyFeryansyahP/simple-go-mongo-rest
 
 go 1.12
 
